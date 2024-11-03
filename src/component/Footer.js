@@ -28,7 +28,7 @@ const Footer = () => {
       <ul className="footer-icons">
         <li>
           <a
-            href="https://www.twitter.com"
+            href="https://www.x.com/skenpo2"
             target="_blank"
             rel="noreferrer"
             className="footer-icon"
@@ -38,7 +38,7 @@ const Footer = () => {
         </li>
         <li>
           <a
-            href="https://www.twitter.com"
+            href="https://www.x.com/skenpo2"
             target="_blank"
             rel="noreferrer"
             className="footer-icon"
@@ -48,7 +48,7 @@ const Footer = () => {
         </li>
         <li>
           <a
-            href="https://www.twitter.com"
+            href="https://www.x.com/skenpo2"
             target="_blank"
             rel="noreferrer"
             className="footer-icon"
@@ -58,8 +58,7 @@ const Footer = () => {
         </li>
       </ul>
       <p className="copyright">
-        copyright &copy; {new Date().getFullYear()} Backroads travel tours
-        company
+        copyright &copy; {new Date().getFullYear()} Micheal Obarewon
         <span id="date"></span> all rights reserved
       </p>
     </footer>
